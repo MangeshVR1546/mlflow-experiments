@@ -1,0 +1,13 @@
+mlflow==3.17.1
+numpy==2.2.6
+nvidia-ml-py==13.615.71
+opt-einsum==3.4.0
+pandas==2.2.3
+psutil==7.2.1
+pyarrow==23.0.0
+pydot==4.0.1
+scikit-learn==1.7.2
+scipy==1.16.2
+skops==0.16.0
+torch==2.10.0
+tqdm==4.67.1
